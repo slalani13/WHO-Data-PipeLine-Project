@@ -1,1 +1,2 @@
 # WHO-Data-PipeLine-Project
+Welcome to our CIS545 final project! Using the World Health Organization's datasets, we aim to analyze the mortality data to understand patterns and factors influencing death rates. By analyzing the data, we aim to gain insights into the leading causes of death. We'll walk you through the entire process by downloading and acquiring preliminary datasets, extracting features, conducting EDA, and doing feature importance with modeling
